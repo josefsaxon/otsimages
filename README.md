@@ -8,3 +8,4 @@ PostEverywhere's `upload_media_from_url`, then get removed once the post is publ
 takes the file off the live URL but does not rewrite git history — treat anything ever committed
 here as not fully private, and never commit anything beyond a cropped chart screenshot (no account
 numbers, balances, or broker UI chrome).
+
